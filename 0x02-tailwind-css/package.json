@@ -1,12 +1,11 @@
 {
-   "name": "css-grid",
+   "name": "0x02-tailwind-css",
    "version": "1.0.0",
-   "main": "index.js",
+   "main": "tailwind.config.js",
    "scripts": {
-      "build": "tailwindcss -i ./src/input.css -o ./src/output.css --watch",
       "test": "echo \"Error: no test specified\" && exit 1"
    },
-   "keywords": [ ],
+   "keywords": [],
    "author": "",
    "license": "ISC",
    "description": "",
